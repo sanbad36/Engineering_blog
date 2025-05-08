@@ -29,6 +29,7 @@
 * 8th Light https://8thlight.com/blog/
 
 #### A companies
+* Agoda https://medium.com/agoda-engineering
 * AdRoll http://tech.adroll.com/blog/
 * Advanced Web Machinery https://advancedweb.hu/
 * Airbnb https://medium.com/airbnb-engineering
